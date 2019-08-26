@@ -2,12 +2,13 @@
 Start creating your own To-do List today! [Click here to start](https://nancyyu17.github.io/TodoList/)</br>
 <p align="center">
 <img src="/images/image_1.png"  width="570" height="400" >
-</p>  
-This projects was initially completed as part of the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) taught by Colt Steele. I thought the concept of the project is very useful for people who need to organize their work daily and keep track of the progress. Therefore, I implemented on top of the first version and added more features:</br>
-- [x] Add multiple To-do Lists on one page
-- [x] Deletion of a whole list is supported
+</p></br>  
+This projects was initially completed as part of the Web Developer Bootcamp on Udemy taught by Colt Steele. I thought the concept of the project is very useful for people who need to organize their work daily and keep track of the progress. Therefore, I implemented on top of the first version with more features:
+
+- [x] Addition of new To-do Lists
+- [x] Deletion of a whole list 
 - [x] Animation effect
-- [x] Draggle functionality on every list on the page
+- [x] Draggle functionality 
 - [ ] To-do list title is editable
 
 # Demo
